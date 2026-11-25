@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Arthur 👋
 
-<!--
-**CiprianoGP/CiprianoGP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software na Universidade Católica de Brasília e do curso
+técnico de Informática na Escola Técnica de Ceilândia. Busco estágio em Tecnologia.
 
-Here are some ideas to get you started:
+## Tecnologias
+Java · Python · SQL · MySQL · C · HTML/CSS · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+- **Consulta_CNPJ_API**: integração com BrasilAPI, MySQL e API própria em FastAPI
+- **Delivery_Fast_API**: API de delivery com autenticação e controle de pedidos
+- **sistema-academia-java**: sistema desktop em Java, Swing e MySQL
+
+📫 LinkedIn: https://www.linkedin.com/in/arthurcipriano-dev/
